@@ -1,0 +1,18 @@
+.botao-card { 
+
+    display: flex;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: rgba(49, 49, 221, 0.699);
+    border: none;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.26);
+    color: #fff;
+    font-weight: 800;
+}
+
+.botao-card:hover {
+
+    transform: scale(1.05);
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.56);
+}
